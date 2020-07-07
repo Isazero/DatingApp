@@ -1,2 +1,2 @@
 # DatingApp
-Project for learning angular with .NET Core
+Project for learning Angular 9 with .NET Core
